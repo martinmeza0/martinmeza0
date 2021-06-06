@@ -1,1 +1,1 @@
-![](coffee.png)
+![](Coffee.png)
